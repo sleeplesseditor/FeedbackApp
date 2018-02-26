@@ -1,2 +1,5 @@
 # Node
 /server/node_modules/
+
+# Keys
+/server/config/keys.js
