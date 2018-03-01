@@ -2,4 +2,4 @@
 /server/node_modules/
 
 # Keys
-/server/config/keys.js
+/server/config/dev.js
