@@ -1,5 +1,5 @@
 # Node
-/server/node_modules/
+node_modules/
 
 # Keys
-/server/config/dev.js
+dev.js
