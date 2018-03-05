@@ -4,7 +4,7 @@ This is a fullstack (MERN) app built using React, Redux, Node, Express, Google O
 
 The React front-end components were built using the [create-react-app](https://github.com/facebook/create-react-app).
 
-Next feature to be added: React client architecture
+Next feature to be added: Stripe payment system
 
 To get the app up and running, follow these steps:
 
