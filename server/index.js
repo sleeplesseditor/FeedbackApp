@@ -8,6 +8,7 @@ require('./models/User');
 require('./models/Survey');
 require('./services/passport');
 
+mongoose.Promise = global.Promise;
 //Connection to remote-hosted database
 mongoose.connect(keys.mongoURI);
 
