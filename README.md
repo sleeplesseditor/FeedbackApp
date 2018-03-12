@@ -10,4 +10,6 @@ To get the app up and running, follow these steps:
 2) npm install
 3) npm run dev
 
+A live version of the app can be seen [here](http://nameless-retreat-85346.herokuapp.com/).
+
 The app is not currently responsive for mobile devices, but has plenty of potential for further development.
