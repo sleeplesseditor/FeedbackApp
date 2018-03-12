@@ -9,3 +9,5 @@ To get the app up and running, follow these steps:
 1) cd FeedbackApp
 2) npm install
 3) npm run dev
+
+The app is not currently responsive for mobile devices, but has plenty of potential for further development.
